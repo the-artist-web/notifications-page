@@ -321,7 +321,7 @@ body {
   }
 
   /* #DUBLICATE ITEM */
-  .section { padding-block: 70px; }
+  .section { padding-block: 50px; }
 
   .container { padding: 50px; }
 
@@ -329,6 +329,4 @@ body {
   .hero { padding-inline: 25%; }
 
   .hero .container { border-radius: 10px; }
-
-
 }
